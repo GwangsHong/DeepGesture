@@ -1,5 +1,9 @@
 # Realtime Gesture recognition system based on Deep learning
-
+## Project
+````
+"Development of a Smart Fitness System for Growing Kids by Using Multi-channel Wireless Communication " 
+(MOTIE of Korea , 2016. 03. 01 ~ 2017. 12. 31)
+````
 ## Reference
 
 ````
