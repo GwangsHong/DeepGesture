@@ -1,11 +1,13 @@
 #Realtime Gesture recognition system based on deep learning (Deep learning) 
+
 ##Reference
+
 ````
 Ji-Hae Kim, Gwang-Soo Hong and Byung-Gyu Kim, 
 "Arm Gestures Recognition based on Deep Convolution and Recurrent Neural Network", 
 Displays(Elsvier), 2018
 ````
-## Start
+
 ### Anaconda with python 3.6 Download
 ````
 https://www.continuum.io/downloads
