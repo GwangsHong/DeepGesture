@@ -1,4 +1,4 @@
-# Realtime Gesture recognition system based on deep learning (Deep learning) 
+# Realtime Gesture recognition system based on Deep learning
 
 ## Reference
 
