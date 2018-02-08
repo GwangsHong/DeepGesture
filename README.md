@@ -1,6 +1,6 @@
-#Realtime Gesture recognition system based on deep learning (Deep learning) 
+# Realtime Gesture recognition system based on deep learning (Deep learning) 
 
-##Reference
+## Reference
 
 ````
 Ji-Hae Kim, Gwang-Soo Hong and Byung-Gyu Kim, 
