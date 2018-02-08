@@ -4,7 +4,7 @@
 
 ````
 Ji-Hae Kim, Gwang-Soo Hong and Byung-Gyu Kim, 
-"Arm Gestures Recognition based on Deep Convolution and Recurrent Neural Network", 
+"Deep Learning-based Gesture Recognition Scheme using Motion Sensors", 
 Displays(Elsvier), 2018
 ````
 
