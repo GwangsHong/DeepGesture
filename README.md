@@ -41,11 +41,11 @@ deactivate deepGesture
 conda remove --name deepGesture --all
 ````
 
-###train example
+### training
 ````
 python train.py /train/
 ````
-###test example
+### run server
 ````
 python server.py
 ````
