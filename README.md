@@ -1,4 +1,4 @@
-# Realtime Gesture recognition system based on Deep learning
+# Realtime Gesture recognition system based on Deep learning (simple version)
 ## Project
 ````
 "Development of a Smart Fitness System for Growing Kids by Using Multi-channel Wireless Communication " 
